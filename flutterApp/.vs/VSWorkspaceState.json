@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\modules",
+    "\\lib\\modules\\calc",
+    "\\lib\\modules\\calc\\screens",
+    "\\lib\\modules\\forms",
+    "\\lib\\modules\\forms\\screens",
+    "\\lib\\modules\\home",
+    "\\lib\\modules\\home\\screens",
+    "\\lib\\modules\\location",
+    "\\lib\\modules\\location\\screens"
+  ],
+  "SelectedNode": "\\web\\index.html",
+  "PreviewInSolutionExplorer": false
+}
